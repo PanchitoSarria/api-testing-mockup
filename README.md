@@ -1,2 +1,2 @@
-# api-testing-mockup
-RestAPI mockup para el curso de Incluit 2022
+# mockjson
+To get fake data for testing
